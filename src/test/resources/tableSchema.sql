@@ -1,0 +1,1 @@
+create table coin(CID identity primary key, CURRENCY_EN_NAME varchar(3), CURRENCY_CN_NAME varchar(10));
